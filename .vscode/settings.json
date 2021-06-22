@@ -1,3 +1,4 @@
 {
-    "editor.fontSize": 30
+    "editor.fontSize": 30,
+    "python.pythonPath": "C:\\Users\\spate\\Envs\\myenv1\\Scripts\\python.exe"
 }
